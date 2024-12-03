@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.cv {
+    padding: 20px;
+    width: 50%;
+}
+.create-cv {
+    background-color: green;
+  }
+  h1, p {
+    border: 2px solid black;
+    padding: 10px;
+  }
+  .header{
+    right:15px;
+    position:fixed
+  }
